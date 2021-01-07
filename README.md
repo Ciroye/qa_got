@@ -1,1 +1,2 @@
-# qa_got
+# got_QA
+QA Game of thrones  
